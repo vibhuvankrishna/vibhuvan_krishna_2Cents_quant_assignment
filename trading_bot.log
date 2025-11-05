@@ -1,0 +1,16 @@
+2025-11-05 11:33:51 [INFO]: --- Starting BTCUSDT (1m) using alpha1 ---
+2025-11-05 11:33:51 [INFO]: --- Starting ETHUSDT (5m) using alpha2 ---
+2025-11-05 11:33:51 [INFO]: --- Starting SOLUSDT (15m) using alpha3 ---
+2025-11-05 11:33:51 [INFO]: BTCUSDT [1m] already has candles in DB
+2025-11-05 11:33:51 [INFO]: Initial 100 candles stored for SOLUSDT [15m]
+2025-11-05 11:33:51 [INFO]: Initial 150 candles stored for ETHUSDT [5m]
+2025-11-05 11:33:51 [INFO]: [BTCUSDT] Stored new candle: 2025-11-05 06:03:00+00:00
+2025-11-05 11:34:21 [INFO]: [BTCUSDT] Stored new candle: 2025-11-05 06:04:00+00:00
+2025-11-05 11:34:52 [INFO]: [BTCUSDT] No new candle yet
+2025-11-05 11:35:22 [INFO]: [ETHUSDT] Stored new candle: 2025-11-05 06:05:00+00:00
+2025-11-05 11:35:22 [INFO]: [ETHUSDT] Signal=BUY, resp={'code': -1013, 'msg': 'Filter failure: NOTIONAL'}
+2025-11-05 11:35:23 [INFO]: [BTCUSDT] Stored new candle: 2025-11-05 06:05:00+00:00
+2025-11-05 11:35:53 [INFO]: [ETHUSDT] No new candle yet
+2025-11-05 11:35:53 [INFO]: [BTCUSDT] No new candle yet
+2025-11-05 11:36:23 [INFO]: [BTCUSDT] Stored new candle: 2025-11-05 06:06:00+00:00
+2025-11-05 11:36:54 [INFO]: [BTCUSDT] No new candle yet
