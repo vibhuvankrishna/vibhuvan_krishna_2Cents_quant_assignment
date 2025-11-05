@@ -22,7 +22,7 @@ except Exception as e:
 
 # --- Import user's bot config & alpha definitions ---
 try:
-    import tester2 as bot
+    import main as bot
 except Exception as e:
     raise ImportError(
         "Could not import tester2.py. Ensure tester2.py is in the same folder. "
